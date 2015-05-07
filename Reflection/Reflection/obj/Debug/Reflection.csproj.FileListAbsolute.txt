@@ -1,0 +1,9 @@
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Reflection\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Reflection\Reflection\obj\Debug\Reflection.Form1.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Reflection\Reflection\obj\Debug\Reflection.Properties.Resources.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Reflection\Reflection\obj\Debug\Reflection.csproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Reflection\Reflection\obj\Debug\Reflection.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Reflection\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
