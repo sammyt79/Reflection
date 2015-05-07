@@ -1,6 +1,6 @@
 # Reflection
 
-.NET2 week1
+.NET2 week2
 
 This was my week 2 individual assignment for .NET2 C#.
 
