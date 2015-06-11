@@ -16,4 +16,4 @@ Open and build "Dice" in Visual Studio
 
 Replace "Reflection/Reflection/bin/Debug/Dice.dll" wtih "Dice/bin/Debug/Dice.dll
 
-Run 
+Run exe (Reflection/Reflection/bin/Debug/Reflection.exe)
