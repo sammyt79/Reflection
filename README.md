@@ -14,6 +14,6 @@ Download and unzip Dice.zip and Reflection.zip
 
 Open and build "Dice" in Visual Studio
 
-Replace "Reflection/Reflection/bin/Debug/Dice.dll" wtih "Dice/bin/Debug/Dice.dll
+Replace "Reflection\Reflection\bin\Debug\Dice.dll" wtih "Dice\bin\Debug\Dice.dll"
 
-Run exe (Reflection/Reflection/bin/Debug/Reflection.exe)
+Run "Reflection.exe" (Reflection\Reflection\bin\Debug\Reflection.exe)
